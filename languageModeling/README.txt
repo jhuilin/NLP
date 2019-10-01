@@ -1,0 +1,2 @@
+Change direction to file in terminal, then enter
+"python language_modeling.py brown-train.txt brown-test.txt learner-test.txt" to execute the code, the programming will take a little bit longer to finish the execution because of heavy computation, the results will be displayed at the console.
